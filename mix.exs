@@ -19,7 +19,9 @@ defmodule CP932.MixProject do
 
   defp deps do
     [
-      {:codepagex, "~> 0.1.9"}
+      {:codepagex, "~> 0.1.9"},
+      {:ex_doc, "~> 0.34.0", only: :dev, runtime: false},
+      {:credo, "~> 1.7", only: :dev, runtime: false}
     ]
   end
 end
