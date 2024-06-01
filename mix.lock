@@ -1,0 +1,3 @@
+%{
+  "codepagex": {:hex, :codepagex, "0.1.9", "430d10a3eee3a170e6e472e456f1a61f851e0b55ecfcc00a0f95938c3acb5a02", [:mix], [], "hexpm", "b7145dd1fdb9fcc33c53e9234040a211b5d46f0fc93d238232e6e72aa5d1c049"},
+}
